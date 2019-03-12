@@ -1,0 +1,2 @@
+# neuralInterfaceEmotiveInsightPerformanceMetrics
+Emotive Insight neural interface Performance Metrics software
