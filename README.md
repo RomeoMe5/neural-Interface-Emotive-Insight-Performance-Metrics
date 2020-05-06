@@ -1,4 +1,4 @@
-# neuralInterfaceEmotiveInsightPerformanceMetrics
+# neural Interface Emotive Insight Performance Metrics
 Emotive Insight neural interface Performance Metrics software
 
 # BCI system Emotiv Insight
