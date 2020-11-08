@@ -1,5 +1,8 @@
 # neural Interface Emotive Insight Performance Metrics
 Emotive Insight neural interface Performance Metrics software
+  
+# Papers
+A. N. Varnavsky and I. I. Romanova, "Using Brain-Computer Interface for Measuring Indicators of Cognitive Processes (A Case of Doing Educational Reading)," 2020 IEEE 40th International Conference on Electronics and Nanotechnology (ELNANO), IEEE, 2020, pp. 484-487, doi: [10.1109/ELNANO50318.2020.9088759](https://doi.org/10.1109/ELNANO50318.2020.9088759).
 
 # BCI system Emotiv Insight
 This non-invasive device is positioned as a universal tool to optimize brain performance and measure and monitor cognitive functions; it can also be used in stress control exercises. The software, supplied with the neurointerface, makes it possible to understand and decipher basic mental commands, such as “push”, “pull”, “lift”, “rotate”. Emotiv Insight is also equipped with sensors to detect blinking, winking, facial expressions of a person experiencing emotions (frowning, being surprised, teeth clenching, smiling, etc.).
